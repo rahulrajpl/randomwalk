@@ -5,5 +5,5 @@ Git training for collaboration
 - 'branch <name>' : create a new branch with name 'name'
 - 'branch' : list all branches
 - 'checkout <branch-name>' : change the current branch to 'branch-name'
-
+- 'push <branch>' : push changes to origin
 

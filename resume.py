@@ -10,3 +10,7 @@ class content():
         print(f'place: {self.place}')
         print(f'Tags: {self.tags}')
 
+if __name__ == '__main__':
+    obj = content()
+    obj.show()
+    

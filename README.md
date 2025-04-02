@@ -1,7 +1,8 @@
 # RandomWalk
 
-This is my personal python library which automates various methods, procedures, code snippets, etc.
+This is my personal python library.
 
-Libraries available so far are as follows
+Whats available so far?
+
 - resume
-- diffusion_map
+
